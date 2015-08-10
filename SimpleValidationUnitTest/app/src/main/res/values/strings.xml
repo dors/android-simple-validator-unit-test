@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">SimpleValidationUnitTest</string>
+    <string name="app_name">Simple validation unit test</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="about">This app demonstrates a very simple unit test.\n\n<b>To run the unit test:</b>\n- Go to \"Build Variants\", and set \"Test Artifact\" to \"Unit Tests\"\n- Right click the CredentialsValidatorTest.java class, and choose \"Run CredentialsValidatorTest\"</string>
 </resources>
